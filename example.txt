@@ -1,0 +1,30 @@
+landsnet SCADA Protocols
+
+Requirements for protection 
+and control systems.   
+Principles for the Icelandic power transmission network.
+IEC 61850
+IEC 60870-5-103
+
+> GET /library/Skjol/Flutningskerfid/Vidskiptavinir/Netmali/Ramma%C3%A1%C3%A6tlun%20fimmta%20%C3%BAtg%C3%A1fa.pdf HTTP/1.1
+> User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+> Host: landsnet.is.s.ux-staging.net
+> Accept: */*
+> Authorization: Basic dXhfdXNlcjp1eF9wYXNzd29yZA==
+>
+< HTTP/1.1 200 OK   
+< Content-Type: application/pdf
+< Connection: keep-alive
+< Cache-Control: public, no-cache="Set-Cookie"
+< Expires: Mon, 18 Sep 2017 22:04:52 GMT
+< Accept-Ranges: bytes
+< Server: Microsoft-IIS/8.0
+< Set-Cookie: ASP.NET_SessionId=2o4izfyjobzzx313ekkmunbh; path=/; HttpOnly
+< Content-Disposition: inline; filename="Ramma��tlun fimmta �tg�fa.pdf"
+< X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< X-UA-Compatible: IE=edge
+< Date: Mon, 11 Sep 2017 22:04:52 GMT
+< Strict-Transport-Security: max-age=157680000
+< Set-Cookie: NSC_JOitkpbtegqn3dpciliwypcmra1beem=ffffffff09a81d3345525d5f4f58455e445a4a423660;Version=1;path=/;secure;httponly
+< Access-Control-Allow-Origin: *
