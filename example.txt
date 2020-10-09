@@ -28,3 +28,4 @@ IEC 60870-5-103
 < Strict-Transport-Security: max-age=157680000
 < Set-Cookie: NSC_JOitkpbtegqn3dpciliwypcmra1beem=ffffffff09a81d3345525d5f4f58455e445a4a423660;Version=1;path=/;secure;httponly
 < Access-Control-Allow-Origin: *
+
